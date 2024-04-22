@@ -1,0 +1,58 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: Viga;
+}
+
+body {
+	
+	background: rgb(236, 248, 0);
+	height: 637px;
+}
+
+.main {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	width: fixed;
+	background: 	rgba(0,0,0,0.4);
+	padding: 25px;
+	border-radius: 15px;
+	box-shadow: 0 0 15px;
+}
+
+.main h2 {
+	text-align: center;
+	color: #5bbde1;
+	text-transform: uppercase;
+}
+
+.button {
+	width: 50px;
+	height: 50px;	
+	font-size: 25px;
+	margin: 2px;
+	cursor: pointer;
+	border: none;
+	background: #565865;
+	color: rgb(243, 243, 243);
+	border-radius: 25px;
+	
+}
+
+.btn-green {
+	background:lig;
+	color:#1c99bb;
+}
+
+.textarea {
+	width: 204px;
+	margin: 4px;
+	font-size: 20px;
+	padding: 10px;
+	border: none;
+	color: #080707;
+	border-radius: 25px;
+	text-align: right;
+}
