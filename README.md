@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Hasil Ujian UKK PPLG
+## Hasil Ujian UKK Muhammad ZulFahma
 
 Ini adalah Hasil Ujian UKK siswa yang bernama Muhammad ZulFahma
 Kelas: XII
